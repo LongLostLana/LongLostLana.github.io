@@ -4,6 +4,9 @@ h1{
     font-family: 'Anton', sans-serif;
     font-size: 85px;
 }
+.headerbuttons {
+    text-align:center;
+}
 ul {
     padding: 10px;
 }
